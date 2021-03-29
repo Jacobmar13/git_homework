@@ -7,3 +7,5 @@
   day in Google Calendar
 4. Another strategy I'll start using is pre-reading lessons to make class's
   easier to follow
+5. Shoutout to my Fiancée Aislin for being my biggest support, without whom
+  I would not have applied to and joined Turing in the first place!
